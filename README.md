@@ -45,8 +45,7 @@ Follow these steps to set up the project:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <project-folder-name>
+   git clone https://github.com/AliEsmTeh/laravel_dynamic_Form_Creator.git
    
 2. **Install Composer**
 
