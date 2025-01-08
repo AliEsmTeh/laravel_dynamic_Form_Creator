@@ -35,7 +35,7 @@ The following field types are supported in this project:
 To run this project, you need to have the following installed:
 
 - **PHP**: Version 8.1 or higher
-- **Laravel**: Version 10
+- **Laravel**: Version 10 or higher
 - **Node.js**: Version 18 or higher
 
 ## Installation and Setup
